@@ -5,6 +5,6 @@ let x=5
 let y=2
 let z=52
 
-
+let w=6
 console.log("result :"+x*y);
 console.log("Z :"+z);
